@@ -1,1 +1,1 @@
-kjhkjhkh
+alert("Hola");
